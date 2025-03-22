@@ -12,6 +12,7 @@ Greenden is a modern and visually appealing e-commerce website for plant and gar
 ## Technologies Used
 - *HTML*
 - *Tailwind CSS*
+- *JavaScript*
 
 ## How to View
   You can access my greenden website by visiting https://batrick-reizon.github.io/greenden-tailwind/. Feel free to explore the content and get in touch!
