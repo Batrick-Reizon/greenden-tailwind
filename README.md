@@ -1,5 +1,5 @@
-# Greenden
-Greenden is a modern and visually appealing e-commerce website for plant and gardening essentials, built using *Tailwind CSS* for a responsive and elegant UI.
+# Greenden Website
+Greenden is a modern and visually appealing e-commerce website for plant and gardening essentials, built using **Tailwind CSS** for a responsive and elegant UI.
 
 ## Features
 - Fully responsive design using Tailwind CSS
@@ -10,9 +10,9 @@ Greenden is a modern and visually appealing e-commerce website for plant and gar
 - 24/7 customer support details
 
 ## Technologies Used
-- *HTML*
-- *Tailwind CSS*
-- *JavaScript*
+- **HTML**
+- **Tailwind CSS**
+- **JavaScript**
 
 ## How to View
   You can access my greenden website by visiting https://batrick-reizon.github.io/greenden-tailwind/. Feel free to explore the content and get in touch!
